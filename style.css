@@ -1,0 +1,30 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1{
+    font-size: 20px;
+}
+.orange-color{
+    color:orange;
+}
+.navy-color{
+    color:rgb(136, 136, 247);
+}
+section{
+    display:flex;
+}
+.half-width{
+    width:25%;
+    padding:50px;
+}
+.half-width img{
+    width:20%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 12px 42px;
+    color:white;
+    font-weight:700;
+    border-radius: 7px;
+}
